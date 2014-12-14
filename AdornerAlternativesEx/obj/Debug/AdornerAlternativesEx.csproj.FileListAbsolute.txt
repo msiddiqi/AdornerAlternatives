@@ -1,0 +1,16 @@
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\bin\Debug\AdornerAlternativesEx.exe
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\bin\Debug\AdornerAlternativesEx.pdb
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\AdornerAlternativesEx.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\MainWindowWithAdorner.baml
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\MainWindowWithPopupOverlay.baml
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\MainWindowWithAdorner.g.cs
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\MainWindowWithPopupOverlay.g.cs
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\App.g.cs
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\AdornerAlternativesEx_MarkupCompile.cache
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\AdornerAlternativesEx.g.resources
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\AdornerAlternativesEx.Properties.Resources.resources
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\AdornerAlternativesEx.csproj.GenerateResource.Cache
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\AdornerAlternativesEx.exe
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\AdornerAlternativesEx.pdb
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\MainWindowWithContentControlOverlay.baml
+C:\Users\Muhammad\Desktop\AdornerAlternativesEx\AdornerAlternativesEx\obj\Debug\MainWindowWithContentControlOverlay.g.cs

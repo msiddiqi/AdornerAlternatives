@@ -1,0 +1,27 @@
+﻿<Window x:Class="AdornerAlternativesEx.MainWindowWithPopupOverlay"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindowWithPopupOverlay" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        
+        <Grid Background="Coral" Grid.Row="0" x:Name="overlayArea">
+                <TextBlock Text="No Overlay" Background="Coral" 
+                           TextAlignment="Center" VerticalAlignment="Center"  />
+        </Grid>        
+
+        <Grid Grid.Row="1" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Content="Apply" Grid.Column="0" Margin="5" x:Name="apply"
+                    Padding="5" Click="apply_Click" />
+            <Button Content="Remove" Grid.Column="1" Margin="5" x:Name="remove"
+                    Padding="5" Click="remove_Click" />
+        </Grid>
+    </Grid>
+</Window>
